@@ -100,7 +100,7 @@ const FILE_DOWNLOADS = [
 ]
 
 const PHRASES = [
-  'hello my name is ptoszek, lol',
+  'hello my name is Olaf, lol',
   'birds are funny lalalalalalalallalala',
   'wgl co u cb bo u mn dbr',
   'knuuurrr eksplozja',
